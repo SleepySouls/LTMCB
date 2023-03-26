@@ -1,0 +1,16 @@
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\21522202 - Vũ Xuân Khang - Lab1.csproj.AssemblyReference.cache
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\21522202 - Vũ Xuân Khang - Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Lab1.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai_1.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai_2.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai_3.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai_4.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bai_5.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\21522202 - Vũ Xuân Khang - Lab1.csproj.GenerateResource.cache
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\21522202 - Vũ Xuân Khang - Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Crystal\Downloads\New folder\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
