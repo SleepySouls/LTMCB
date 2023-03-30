@@ -1,0 +1,24 @@
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\bin\Debug\ChatUDP.exe.config
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\bin\Debug\ChatUDP.exe
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\bin\Debug\ChatUDP.pdb
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.AssemblyReference.cache
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\ChatUDP.client_chat.resources
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\ChatUDP.server_chat.resources
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\ChatUDP.Properties.Resources.resources
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.GenerateResource.cache
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\ChatUDP.exe
+C:\Users\Crystal\Downloads\Ltmcb-main\Ltmcb-main\Week3\ChatUDP\obj\Debug\ChatUDP.pdb
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\bin\Debug\ChatUDP.exe.config
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\bin\Debug\ChatUDP.exe
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\bin\Debug\ChatUDP.pdb
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.AssemblyReference.cache
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\ChatUDP.client_chat.resources
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\ChatUDP.server_chat.resources
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\ChatUDP.Properties.Resources.resources
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.GenerateResource.cache
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\UDP Chat Application.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\ChatUDP.exe
+C:\Users\Crystal\Downloads\New folder\Week3\ChatUDP\obj\Debug\ChatUDP.pdb
