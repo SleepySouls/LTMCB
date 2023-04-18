@@ -1,0 +1,16 @@
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\bin\Debug\Lab 2.exe
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\bin\Debug\Lab 2.pdb
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.csproj.AssemblyReference.cache
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Main_Menu.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Bai_1.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.csproj.GenerateResource.cache
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.exe
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab 2.pdb
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Bai_2.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.bai_3.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Bai_4.resources
+C:\Users\Crystal\Downloads\21522202 - Vũ Xuân Khang - Lab2\Lab 2\obj\Debug\Lab_2.Bai_5.resources
